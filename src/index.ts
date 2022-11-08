@@ -2,7 +2,7 @@
 // import Enveloping from './Enveloping';
 // import HttpClient from './HttpClient';
 // import HttpWrapper from './HttpWrapper';
-// import RelayedTransactionValidator from './RelayedTransactionValidator';
+export * from './RelayedTransactionValidator';
 // import RelayProvider from './RelayProvider';
 // import RelaySelectionManager from './RelaySelectionManager';
 // import RelayPricer from './RelayPricer';
